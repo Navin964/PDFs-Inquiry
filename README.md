@@ -3,10 +3,10 @@ This is a Streamlit app that allows you to ask questions about your PDF document
 
 
 ## How to use
-*Upload your PDF documents to the sidebar.
-*Click on the "Process" button.
-*Ask a question about your documents in the main area of the app.
-*The app will answer your question based on the text content of your documents.
+* Upload your PDF documents to the sidebar.
+* Click on the "Process" button.
+* Ask a question about your documents in the main area of the app.
+* The app will answer your question based on the text content of your documents.
 
 
 ## Requirements
