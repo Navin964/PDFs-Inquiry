@@ -1,4 +1,4 @@
-# PDFs-Inquiry
+# PDFs-Inquiry-AI
 This is a Streamlit app that allows you to ask questions about your PDF documents. The app uses a conversational AI model to answer your questions based on the text content of your documents.
 
 
@@ -10,7 +10,7 @@ This is a Streamlit app that allows you to ask questions about your PDF document
 
 
 ## Requirements
-*Streamlit
-*Python 3.8+
-*Hugging Face Transformers
-*FAISS
+* Streamlit
+* Python 3.8+
+* Hugging Face Transformers
+* FAISS
